@@ -3,8 +3,8 @@ import CardCarousel from "@/components/CardCarousel";
 
 export default function Home() {
   return (
-    <div className="grid grid-rows items-center  justify-items-center  lg:px-86 px-10 pb-20 gap-16 sm:p-32 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col text-xl gap-8 row-start-2 md:items-center items-center sm:items-start">
+    <div className="grid grid-rows items-center  text-2xl  justify-items-center  lg:px-86 px-10 pb-20 gap-16 sm:p-32 font-[family-name:var(--font-geist-sans)]">
+      <main className="flex flex-col gap-8 row-start-2 md:items-center items-center sm:items-start">
         <h1 className="text-yellow-600 text-3xl md:text-5xl font-extrabold">How I Went from Losing Deals Due to Slow Crypto Transactions </h1>
         <h1 className="text-white-700 text-1xl  md:text-3xl font-extrabold">To Instant Hassle-Free & Reliable USDT-to-Naira Payments –<i className="text-yellow-600">  When All Exchanges Failed!</i></h1>
       
